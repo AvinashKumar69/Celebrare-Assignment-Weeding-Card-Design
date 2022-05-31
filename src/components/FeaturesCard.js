@@ -2,7 +2,7 @@ import React from 'react';
 
 const FeaturesCard = () => {
     return (
-        <div className='flex flex-col items-center justify-center space-y-6'>
+        <div className='flex flex-col items-center justify-center space-y-6 mt-12'>
             <h1 className='font-serif text-3xl font-bold'>Features</h1>
 
             <div className='flex flex-row items-center justify-center space-x-12 border-2 border-black rounded-3xl mx-20 p-5'>

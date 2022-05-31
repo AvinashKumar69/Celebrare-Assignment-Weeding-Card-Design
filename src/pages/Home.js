@@ -4,10 +4,10 @@ import FeaturesCard from '../components/FeaturesCard';
 
 const Home = () => {
     return (
-        <>
-            {/* <BannerCard /> */}
+        <div className=''>
+            <BannerCard />
             <FeaturesCard />
-        </>
+        </div>
     )
 }
 
